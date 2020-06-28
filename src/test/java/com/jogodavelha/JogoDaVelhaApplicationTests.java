@@ -1,0 +1,14 @@
+package com.jogodavelha;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class JogoDaVelhaApplicationTests {
+
+	@Test
+	void contextLoads() {
+
+	}
+
+}
